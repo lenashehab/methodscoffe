@@ -18,7 +18,7 @@
   url("https://db.onlinewebfonts.com/t/83e4a6b639612cd501853be5a7cf97ab.ttf")format("truetype"),
   url("https://db.onlinewebfonts.com/t/83e4a6b639612cd501853be5a7cf97ab.svg#Trend Sans One Regular")format("svg");
 }
- :root{
+/*  :root{
  --mycolor-color-C5CED9:#C5CED9;
  --mycolor-color-8E8E8E: #8E8E8E;
  --mycolor-color-FFFFFF: #FFFFFF;
@@ -27,7 +27,7 @@
  --mycolor-color-688382:#688382;
  --mycolor-color-8E8E8E: #8E8E8E;
  --mycolor-color-D5DBE3: #D5DBE3;
-}
+} */
 a:focus, a:active,
 .btn.active.focus,
 .btn.active:focus,
