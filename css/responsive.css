@@ -1,0 +1,16 @@
+ @media (max-width:999px) {
+    
+.y {
+    display: block !important;
+  }
+  .nav-desktop {
+    display: none !important;
+
+  }
+ 
+.nav-fixed {
+  justify-content: space-between;
+}
+ }
+ @media (max-width:768px) {
+ }
